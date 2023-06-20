@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>jazz.mp3</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
